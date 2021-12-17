@@ -17,3 +17,4 @@ Relaunch it and it will do the work!
 ## To-do
 - Find a way to open the osk & osz (and osr) directly with the game 
 - Auto-detect osu! folder maybe?
+- Create an optional loop so it's possible to keep the script running in background
