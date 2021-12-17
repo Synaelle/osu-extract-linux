@@ -1,7 +1,10 @@
 # osu! extract for Linux
 This bash script extract your osz &amp; osk files, and put them directly into osu! and extract them.
+
 Take in note that the project is a thing that I've made for fun! Don't hesitate to point any issues!
+
 **IT REQUIRES THE UNZIP PACKAGE!!**
+
 *Any solution that doesn't require the unzip to extract osu! archives is totally welcome!*
 
 ## Usage
