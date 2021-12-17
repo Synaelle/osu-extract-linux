@@ -12,5 +12,8 @@ Just slide the script into a folder, and launch it.
 
 On the first time, it will ask your osu! folder location, put the absolute path! (If you didn't put that correctly, you can reset your config by deleting the cfg file or just launch the script with the argument reset)
 
+Relaunch it and it will do the work!
+
 ## To-do
-- 
+- Find a way to open the osk & osz (and osr) directly with the game 
+- Auto-detect osu! folder maybe?
